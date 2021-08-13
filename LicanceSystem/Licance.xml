@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Lisanslama>
+	<Site>
+		<ID>1</ID>
+		<SiteAdi>localhost:18845</SiteAdi>
+		<Versiyon>10082021</Versiyon>
+		<LisansNo>20210810-rps-123asdf</LisansNo>
+		<BaslangicTarihi>10.08.2021</BaslangicTarihi>
+		<BitisTarihi>13.03.2022</BitisTarihi>
+	</Site>
+</Lisanslama>
